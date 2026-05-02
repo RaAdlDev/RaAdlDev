@@ -14,6 +14,16 @@ authentication systems, and performance optimizacion.
 - PostgreSQL
 - Git & GitHub
 
+# 📌 Featured Projects
+🔷Task Manager 
+Features:
+-JWT authentication
+-CRUD operations 
+-Filtering
+-Clear architecture
+-SQLAlchemy
+👉 https://github.com/RaAdlDev/fastapi-task-manager
+
 # ⚙️ Working On
 - Implementing OAuth2 and JWT in microservices architectures
 - Bulding scalable backend services with FastAPI
