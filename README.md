@@ -24,6 +24,15 @@ Features:
 -SQLAlchemy
 👉 https://github.com/RaAdlDev/fastapi-task-manager
 
+🔷ChattBox
+Features:
+-WebSockets
+-Roles
+-PostgreSQL
+-Full CRUD
+-SQLAlchemy
+👉 https://github.com/RaAdlDev/ChatterBox
+
 # ⚙️ Working On
 - Implementing OAuth2 and JWT in microservices architectures
 - Bulding scalable backend services with FastAPI
