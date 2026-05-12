@@ -41,5 +41,6 @@ Features:
 # 📫 Contact
 - GitHub: https://github.com/RaAdlDev
 - Email: adlgarciago@gmail.com
+- LinkedIn: https://www.linkedin.com/in/adl-garcía-45934a3a2/
 
 --> Always improving. Always solving
