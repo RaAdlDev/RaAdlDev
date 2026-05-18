@@ -39,7 +39,7 @@ Features:
 -Roles
 -Full CRUD
 -SQLAlchemy
-👉 https://github.com/RaAdlDev/ChatterBox
+👉 https://github.com/RaAdlDev/inventory-management-
 
 # ⚙️ Working On
 - Implementing OAuth2 and JWT in microservices architectures
