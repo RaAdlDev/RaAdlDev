@@ -33,6 +33,14 @@ Features:
 -SQLAlchemy
 👉 https://github.com/RaAdlDev/ChatterBox
 
+🔷inventory-management 
+Features:
+-WebHooks
+-Roles
+-Full CRUD
+-SQLAlchemy
+👉 https://github.com/RaAdlDev/ChatterBox
+
 # ⚙️ Working On
 - Implementing OAuth2 and JWT in microservices architectures
 - Bulding scalable backend services with FastAPI
