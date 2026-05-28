@@ -41,13 +41,13 @@ Features:
 -SQLAlchemy
 👉 https://github.com/RaAdlDev/inventory-management-
 
-🔷#payments-api
+🔷payments-api
 Features:
 -WebHooks
 -PostgreSql
 -Stripe
 -JWT auth
-👉 https://github.com/RaAdlDev/inventory-management-
+👉 https://github.com/RaAdlDev/payments-api
 
 # ⚙️ Working On
 - Implementing OAuth2 and JWT in microservices architectures
