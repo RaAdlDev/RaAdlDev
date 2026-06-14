@@ -15,14 +15,15 @@ authentication systems, and performance optimizacion.
 - Git & GitHub
 
 # 📌 Featured Projects
-🔷Task Manager 
+🔷Content Manager
 Features:
 -JWT authentication
--CRUD operations 
--Filtering
--Clear architecture
+-Roles
+-Pagination
+-Websockets
+-Tests
 -SQLAlchemy
-👉 https://github.com/RaAdlDev/fastapi-task-manager
+👉 https://github.com/RaAdlDev/content-manager
 
 🔷ChattBox
 Features:
@@ -50,7 +51,7 @@ Features:
 👉 https://github.com/RaAdlDev/payments-api
 
 # ⚙️ Working On
-- Implementing OAuth2 and JWT in microservices architectures
+- Implementing Docker in new projects
 - Bulding scalable backend services with FastAPI
 - Improving cleanliness and design
 
