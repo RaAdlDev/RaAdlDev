@@ -1,11 +1,11 @@
 ## Hi, i'm Adl Rafael 👋
 
-# 🚀 Backend Developer | API Design | Problem Solver
+# Backend Developer | API Design | Problem Solver
 Backend-focused building scalable systems and clean APIs.
 Currently working on improving architecture design, 
 authentication systems, and performance optimizacion.
 
-# 🧠 Tech Stack
+# Tech Stack
 - Python
 - Fast API
 - REST API Design
@@ -50,12 +50,12 @@ Features:
 -JWT auth
 👉 https://github.com/RaAdlDev/payments-api
 
-# ⚙️ Working On
+# Working On
 - Implementing Docker in new projects
 - Bulding scalable backend services with FastAPI
 - Improving cleanliness and design
 
-# 📫 Contact
+# Contact
 - GitHub: https://github.com/RaAdlDev
 - Email: adlgarciago@gmail.com
 - LinkedIn: https://www.linkedin.com/in/adl-garcía-45934a3a2/
