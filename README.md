@@ -15,6 +15,16 @@ authentication systems, and performance optimizacion.
 - Git & GitHub
 
 # 📌 Featured Projects
+🔷Services Marketplace:
+Features:
+-Docker
+-Stripe escrow
+-Roles
+-Websockets
+-Tests
+-SQLAlchemy
+👉 https://github.com/RaAdlDev/ServicesMarketplace
+
 🔷Content Manager
 Features:
 -JWT authentication
