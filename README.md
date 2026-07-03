@@ -24,6 +24,7 @@ Features:
 -Tests
 -SQLAlchemy
 👉 https://github.com/RaAdlDev/ServicesMarketplace
+Note: frontend in process
 
 🔷Content Manager
 Features:
@@ -61,9 +62,9 @@ Features:
 👉 https://github.com/RaAdlDev/payments-api
 
 # Working On
-- Implementing Docker in new projects
-- Bulding scalable backend services with FastAPI
-- Improving cleanliness and design
+- Implementing bussisnes APIs
+- Frontend design
+- FullStack Development
 
 # Contact
 - GitHub: https://github.com/RaAdlDev
