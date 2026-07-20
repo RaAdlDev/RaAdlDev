@@ -13,6 +13,11 @@ authentication systems, and performance optimizacion.
 - JWT Authentication
 - PostgreSQL
 - Git & GitHub
+- Docker
+- Pytests
+- HTML
+- CSS
+- Javscript
 
 # 📌 Featured Projects
 🔷Services Marketplace:
