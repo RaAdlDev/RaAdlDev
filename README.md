@@ -3,7 +3,7 @@
 # Backend Developer | API Design | Problem Solver
 Backend-focused building scalable systems and clean APIs.
 Currently working on improving architecture design, 
-authentication systems, and performance optimizacion.
+authentication systems, and performance optimization. Currently learning cybersecurity.
 
 # Tech Stack
 - Python
@@ -67,7 +67,7 @@ Features:
 👉 https://github.com/RaAdlDev/payments-api
 
 # Working On
-- Implementing bussisnes APIs
+- Cybersecurity and networking projects
 - Frontend design
 - FullStack Development
 
